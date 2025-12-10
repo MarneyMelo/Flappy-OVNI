@@ -1,0 +1,20 @@
+# --- Seu conteúdo personalizado ---
+# Pastas de build
+/bin/*.o
+/obj/*.o
+
+# Arquivos compilados
+*.o
+*.exe
+
+# Configurações do VSCode
+/.vscode/
+
+# Exceção: NÃO ignore este arquivo específico dentro da pasta bin
+!/bin/NAO_APAGUE_ESSE_ARQUIVO.txt
+
+# --- Ignorar Documentação Automática (Doxygen) ---
+html/
+latex/
+
+esse é o gitignore salvo
