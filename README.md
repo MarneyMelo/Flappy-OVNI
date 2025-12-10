@@ -85,6 +85,19 @@ Certifique-se de ter instalado em sua máquina:
 
 -----
 
+## 📚 Documentação
+
+A documentação completa do código foi gerada utilizando a ferramenta **Doxygen**.
+Para acessá-la, você pode gerar os arquivos localmente seguindo estes passos:
+
+1. Certifique-se de ter o **Doxygen** instalado na sua máquina.
+2. Na raiz do projeto, execute o comando:
+   ```bash
+   doxygen Doxyfile
+Uma pasta chamada html será criada. Abra o arquivo html/index.html no seu navegador para visualizar a estrutura de classes, métodos e hierarquias do projeto.
+
+-----
+
 ## 👥 Autores
 
 Este projeto foi desenvolvido por:
