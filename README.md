@@ -114,5 +114,3 @@ Este projeto foi desenvolvido por:
 
 Este projeto está sob a licença [MIT](https://www.google.com/search?q=./LICENSE).
 
-```
-```
